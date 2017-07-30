@@ -26,3 +26,19 @@
 
 ### Update Structure views folder
 	create template ejs
+
+### Add template
+	Login / Sign up / Profile
+
+### install middleware
+	npm install connect-flash connect-mongo mongoose express-session gravatar bcrypt-nodejs passport poassport-local --save
+
+### app.js refactoring
+
+### Add file : config , passport
+
+### Create models folder, Add user schema
+
+### Update Router
+
+### Add controllers folder
